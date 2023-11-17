@@ -1,6 +1,6 @@
 # HangmanChallenge
 
-The Hangman challenge took me 2 hours and 32 minutes to complete
+The Hangman challenge took me 3 hours and 08 minutes to complete
 
 ## Running the program
 

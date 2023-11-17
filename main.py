@@ -19,3 +19,4 @@ if __name__ == "__main__":
     while play_game:
         word = word_list[randint(0, len(word_list)-1)]
         play_game = Hangman.launch_game(word)
+    print("Thank you for playing!")

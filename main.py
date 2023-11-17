@@ -2,13 +2,13 @@ from random import randint
 
 import Hangman
 
-word_list = ["Pineapple",
+word_list = ["Pineapples",
              "Cats",
              "Train",
              "Trumpet",
-             "House",
+             "Houses",
              "Telephone",
-             "Calculator",
+             "Calculators",
              "Physics",
              "Envelope",
              "Dragon"]

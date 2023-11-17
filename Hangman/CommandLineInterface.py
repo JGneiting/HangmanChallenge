@@ -115,7 +115,7 @@ class CommandLine(Interface):
         self.hangman.draw()
         self.draw_letters()
         print("That is correct!")
-        print(f"You guessed the word in {game_stats.get_guess_num()} tries!")
+        print(f"You guessed the word in {game_stats.get_guess_num() - 1} tries!")
         response = input("Would you like to play again? (y/n): ")
         response = 'y' == response.lower()
         return response
